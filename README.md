@@ -1,6 +1,6 @@
 ## Overview
 ### Simple demo of Streaming React Server Component with JSON Placeholder API
-This demo covers following three rendering method as comparison
+This demo covers following three rendering methods as comparison
 - 🔑 CSR(useSWR) + SG with Suspense
 - 🚀 Streaming RSC(React Server Components) with Suspense
 - 🐭 Conventional getServerSideProps (All or Nothing)
