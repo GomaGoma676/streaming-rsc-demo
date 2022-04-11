@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
-    "next": "v12.1.1-canary.10",
-    "react": "^18.0.0-rc.2",
-    "react-dom": "^18.0.0-rc.2",
+    "next": "12.1.4",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
     "react-error-boundary": "^3.1.4",
     "swr": "^1.2.2"
   },
